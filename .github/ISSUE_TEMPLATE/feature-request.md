@@ -1,8 +1,8 @@
 ---
 name: Feature Request
 about: Suggest an idea for Windows Admin Center
-title: "**[Tool, Solution, or Feature Name]** - A clear and concise description of
-  what the feature is is."
+title: "[Tool, Solution, or Feature Name] - A clear and concise description of what
+  the feature is is"
 labels: ''
 assignees: ''
 

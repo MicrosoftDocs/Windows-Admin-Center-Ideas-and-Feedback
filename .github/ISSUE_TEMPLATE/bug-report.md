@@ -2,8 +2,8 @@
 name: Bug Report
 about: 'For bugs/issues you encountered, please describe it down below using the following
   format: '
-title: "**[Tool, Solution, or Feature Name]** - A clear and concise description of
-  what the bug is."
+title: "[Tool, Solution, or Feature Name] - A clear and concise description of what
+  the bug is"
 labels: ''
 assignees: ''
 
