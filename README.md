@@ -3,6 +3,12 @@
 
 This github repo will only serve as a way for you to give your feedback and ideas to the Windows Admin Center team. Due to the migration away from UserVoice, we will be using this temporary solution in the interim to collect your invaluable feedback. This is a public repo so anyone can view it's contents, so please keep this in mind as you provide feedback, as to not include any personal information. 
 
+## Instructions
+
+To file a bug or feature request, please follow the steps to create an issue as shown on this [Creating an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) page. We have already created 2 issue templates for you to use:
+- Bug Report
+- Feature Request
+
 Thank you so much for your time! 😊
 
 # Contributing
