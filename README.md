@@ -9,7 +9,15 @@ To file a bug or feature request, please follow the steps to create an issue as 
 - Bug Report
 - Feature Request
 
-Thank you so much for your time! 😊
+### Voting
+
+We will use the reactions as a way to vote. Only the 👍 emoji will count as an upvote. 
+
+### Previous Forums for Feedback
+
+We know you have spent time writing these issues and feature requests. They are not lost, we have kept the UserVoice posts with 15 or more upvotes in our database. Any issue that you filed on the Microsoft Forms has been filed as bugs and feature requests have been sent to our backlogs. 
+
+Thank you so much for your time and dedication! 😊
 
 # Contributing
 
