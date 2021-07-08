@@ -6,8 +6,8 @@ This github repo will only serve as a way for you to give your feedback and idea
 ## Instructions
 
 To file a bug or feature request, please follow the steps to create an issue as shown on this [Creating an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) page. We have already created 2 issue templates for you to use:
-- Bug Report
-- Feature Request
+- 🐞 Bug Report
+- 📃 Feature Request
 
 ### Voting
 
