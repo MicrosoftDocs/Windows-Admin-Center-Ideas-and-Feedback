@@ -1,7 +1,6 @@
 ---
 name: Bug Report
-about: 'For bugs/issues you encountered, please describe it down below using the following
-  format: '
+about: Share bugs/issues you encountered
 title: "[Tool, Solution, or Feature Name] - A clear and concise description of what
   the bug is"
 labels: bug
