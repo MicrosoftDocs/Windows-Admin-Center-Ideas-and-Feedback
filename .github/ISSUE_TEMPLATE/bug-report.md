@@ -4,8 +4,8 @@ about: 'For bugs/issues you encountered, please describe it down below using the
   format: '
 title: "[Tool, Solution, or Feature Name] - A clear and concise description of what
   the bug is"
-labels: ''
-assignees: ''
+labels: bug
+assignees: trungtran-msft
 
 ---
 
